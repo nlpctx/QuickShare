@@ -1,6 +1,12 @@
 # QuickShare (Anonymous Peer-to-Peer File Sharing)
 
+
 QuickShare is a secure, 100% anonymous Android application designed for high-speed peer-to-peer sharing. It allows you to share photos and videos directly from your device via a secure SSH tunnel—without accounts, without clouds, and without tracking.
+
+---
+
+### ❤️ Supporting the Ecosystem
+If you enjoy this project and find the seamless sharing useful, please consider supporting the providers that make anonymous tunneling possible. You can visit and support the [localhost.run repository](https://github.com/mjp/localhost.run) to help keep these services alive and free for everyone.
 
 ---
 
@@ -64,8 +70,4 @@ QuickShare is built for absolute privacy.
 
 *Built for the community by nlpctx. Stay anonymous.*
 
----
-
-### ❤️ Supporting the Ecosystem
-If you enjoy this project and find the seamless sharing useful, please consider supporting the providers that make anonymous tunneling possible. You can visit and support the [localhost.run repository](https://github.com/mjp/localhost.run) to help keep these services alive and free for everyone.
 
