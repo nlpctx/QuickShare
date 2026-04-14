@@ -6,7 +6,7 @@ QuickShare is a secure, 100% anonymous Android application designed for high-spe
 ---
 
 ### ❤️ Supporting the Ecosystem
-If you enjoy this project and find the seamless sharing useful, please consider supporting the providers that make anonymous tunneling possible. You can visit and support the [localhost.run repository](https://github.com/mjp/localhost.run) to help keep these services alive and free for everyone.
+If you enjoy this project and find the seamless sharing useful, please consider supporting the providers that make anonymous tunneling possible. You can visit and support the [localhost.run organization](https://github.com/localhost-run) to help keep these services alive and free for everyone.
 
 ---
 
