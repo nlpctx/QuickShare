@@ -63,3 +63,9 @@ QuickShare is built for absolute privacy.
 ---
 
 *Built for the community by nlpctx. Stay anonymous.*
+
+---
+
+### ❤️ Supporting the Ecosystem
+If you enjoy this project and find the seamless sharing useful, please consider supporting the providers that make anonymous tunneling possible. You can visit and support the [localhost.run repository](https://github.com/mjp/localhost.run) to help keep these services alive and free for everyone.
+
